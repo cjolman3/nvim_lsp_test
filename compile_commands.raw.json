@@ -1,4 +1,3 @@
-[
 {
   "directory": "/home/cjolman3/MyCode/nvim_lsp_test",
   "file": "src/main.cpp",
@@ -8,5 +7,4 @@
   "directory": "/home/cjolman3/MyCode/nvim_lsp_test",
   "file": "src/math.cpp",
   "command": "g++ -std=c++17 -Wall -Iinclude -c -o src/math.o"
-}
-]
+},
