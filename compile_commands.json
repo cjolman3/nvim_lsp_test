@@ -1,0 +1,13 @@
+[
+  {
+    "directory": "/home/cjolman3/cpp_project",
+    "command": "g++ -std=c++17 -Wall -Iinclude -c src/main.cpp",
+    "file": "src/main.cpp"
+  },
+  {
+    "directory": "/home/cjolman3/cpp_project",
+    "command": "g++ -std=c++17 -Wall -Iinclude -c src/math.cpp",
+    "file": "src/math.cpp"
+  }
+]
+
